@@ -26,7 +26,7 @@ We are going to add more features to support mobile devices.
 
 ### `Already Implemented functionalities`
 
-1.  Some beautiful and cool e-commercial store pages: Based on HTML, CSS, Javascript, I have to say they are so cooooool!.
+1.  Some beautiful and cool e-commercial store pages: Based on React Framework, I have to say they are so cooooool!.
 2.  Users Sign-in and Sign-out, based on google FireBase, clients can simply login with their google accounts.
 3.  Store data in a NoSQL database. We just try that kind of database, it seems not bad.
 4.  Cart Items functionality. Never heard any e-commercial web page or applications exist without a cart functionality.
