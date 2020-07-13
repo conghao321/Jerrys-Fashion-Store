@@ -8,6 +8,14 @@ Oh! God, please do not ask me why I didn't pick AWS, the reason is simple....GCP
 
 
 
+## The Demo URL:
+
+https://reactclothingstoreapp.wm.r.appspot.com/
+
+Here is the demo. I have to say, it is a bit beautiful ~
+
+
+
 ## This application is based on 
 
 ### Client-Side:
