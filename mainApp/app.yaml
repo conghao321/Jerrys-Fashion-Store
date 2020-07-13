@@ -1,0 +1,23 @@
+
+
+# [START gae_flex_quickstart_yaml]
+runtime: nodejs
+env: flex
+
+handlers:
+- url: /
+  static_files: client/build/index.html
+  upload: client/build/index.html
+- url: /
+  static_dir: client/build
+
+manual_scaling:
+  instances: 1
+resources:
+  cpu: 1
+  memory_gb: 0.5
+  disk_size_gb: 10
+
+env_variables:
+  STRIPE_SECRET_KEY: sk_test_51H0ir0AyvULANtQRw9JfJ1TrcPPMa0MljRKTQP5v51jGGQc5pND78ScdQH40HU9Ile2sBnjuBIZOfp669Xv7BRv500DXiQsk3Y
+# [END gae_flex_quickstart_yaml]
